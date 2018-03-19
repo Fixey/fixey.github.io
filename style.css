@@ -1,0 +1,111 @@
+/* header {
+    border-width: 0.14px;
+    border-color: #b5b7ba;
+    border-style: solid;
+    background-color: #dfdfdf;
+    height: 68px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar-brand {
+    font-family: sans-serif;
+    color: #4d4d4d;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+    text-decoration: none;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #2e353d;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: center;
+}
+*/
+.m-md-3{
+    padding: 2rem!important;
+}
+.navbar{
+    position: sticky;
+}
+.text-center{
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.lead{
+    margin-top: 16px;
+}
+main {
+    width: 100%;
+
+
+}
+pictur{
+    display: flex;
+
+
+}
+.img-america img {
+    width: 400px;
+    padding-bottom: 4%;
+}
+
+.img-mos img {
+    width: 400px;
+    padding-bottom: 4%;
+}
+
+p {
+    font-size: 1.25rem;
+    font-weight: 300;
+
+}
+.radi{
+    display: flex;
+    width: 25%;
+    border-radius:15%;
+    
+}
+/*
+footer {
+    background-color: #434445;
+    height: 132px;
+    font-family: sans-serif;
+    color: #a4a4a4;
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+footer a {
+    font-family: sans-serif;
+    color: #a4a4a4;
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+    text-decoration: none;
+
+}
+*/
+bg-dark{
+    width: 100%;
+}
+.img-link{
+    width: 45px;
+} 
+.link{
+    width: 100%;
+}
+footer .navbar-brand{
+    font-size: 12px;
+}
